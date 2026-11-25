@@ -1,0 +1,40 @@
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+.metadata/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Visual Studio Code files
+.vscode/
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment configuration
+.env
+.env.*
+
+# Original academic submission documents
+/Readme.txt
+/README.txt
+*.pdf
+*.docx
+*.zip
+
+# Original UMLMark diagram files
+*.umlc
