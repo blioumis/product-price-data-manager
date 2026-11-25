@@ -599,13 +599,9 @@ mvn clean test
 
 ## Team Collaboration
 
-The original backend implementation, automated testing and
-technical documentation were developed as a collaborative
-academic project by two students.
-
-The project demonstrates the integration of a custom backend
-implementation into an existing software framework while
-respecting predefined interfaces and architectural constraints.
+This project was developed collaboratively by a team of two
+students, with both members actively participating in the
+backend implementation, testing and technical documentation.
 
 ## Copyright and Attribution
 
